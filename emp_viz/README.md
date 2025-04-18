@@ -1,11 +1,4 @@
 
-touch README.md
-Open it in VS Code or any editor:
-
-bash
-
-code README.md
-
 
 Employee Data Visualization API
 
