@@ -1,21 +1,12 @@
 
-In your project root folder (emp_viz/), create a file named README.md:
-
-bash
-Copy
-Edit
 touch README.md
 Open it in VS Code or any editor:
 
 bash
-Copy
-Edit
-code README.md
-Paste this starter content:
 
-markdown
-Copy
-Edit
+code README.md
+
+
 Employee Data Visualization API
 
 Features
@@ -31,36 +22,27 @@ Features
 git clone https://github.com/your-username/employee-api-viz.git cd employee-api-viz
 
 cpp
-Copy
-Edit
+
 
 2. Create and activate virtual environment:
 python -m venv venv source venv/bin/activate # Windows: venv\Scripts\activate
 
-markdown
-Copy
-Edit
+
 
 3. Install dependencies:
 pip install -r requirements.txt
 
-markdown
-Copy
-Edit
+
 
 4. Run migrations:
 python manage.py migrate
 
-markdown
-Copy
-Edit
+
 
 5. Start server:
 python manage.py runserver
 
-markdown
-Copy
-Edit
+
 
 6. Access Swagger docs:
 - Open browser: `http://127.0.0.1:8000/swagger/`
